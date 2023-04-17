@@ -1,42 +1,42 @@
 [
   {
     "name": "EDC Gateway Charité (ids)",
-    "url": "https://ids.health-x.charite.de:443",
+    "url": "https://ids.health-x.charite.de",
     "icon": "https://icons.duckduckgo.com/ip3/ids.health-x.charite.de.ico",
     "slug": "edc-gateway-charite-ids",
     "status": "down",
-    "uptime": "12.10%",
-    "uptimeDay": "12.10%",
-    "uptimeWeek": "12.10%",
-    "uptimeMonth": "12.10%",
-    "uptimeYear": "12.10%",
-    "time": 702,
-    "timeDay": 702,
-    "timeWeek": 702,
-    "timeMonth": 702,
-    "timeYear": 702,
+    "uptime": "1.41%",
+    "uptimeDay": "1.41%",
+    "uptimeWeek": "1.41%",
+    "uptimeMonth": "1.41%",
+    "uptimeYear": "1.41%",
+    "time": 739,
+    "timeDay": 739,
+    "timeWeek": 739,
+    "timeMonth": 739,
+    "timeYear": 739,
     "dailyMinutesDown": {
-      "2023-04-17": 0
+      "2023-04-17": 2
     }
   },
   {
     "name": "EDC Gateway Charité (data)",
-    "url": "https://data.health-x.charite.de:443",
+    "url": "https://data.health-x.charite.de",
     "icon": "https://icons.duckduckgo.com/ip3/data.health-x.charite.de.ico",
     "slug": "edc-gateway-charite-data",
     "status": "down",
-    "uptime": "9.64%",
-    "uptimeDay": "9.64%",
-    "uptimeWeek": "9.64%",
-    "uptimeMonth": "9.64%",
-    "uptimeYear": "9.64%",
-    "time": 594,
-    "timeDay": 594,
-    "timeWeek": 594,
-    "timeMonth": 594,
-    "timeYear": 594,
+    "uptime": "2.07%",
+    "uptimeDay": "2.07%",
+    "uptimeWeek": "2.07%",
+    "uptimeMonth": "2.07%",
+    "uptimeYear": "2.07%",
+    "time": 617,
+    "timeDay": 617,
+    "timeWeek": 617,
+    "timeMonth": 617,
+    "timeYear": 617,
     "dailyMinutesDown": {
-      "2023-04-17": 0
+      "2023-04-17": 2
     }
   },
   {
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 546,
-    "timeDay": 546,
-    "timeWeek": 546,
-    "timeMonth": 546,
-    "timeYear": 546,
+    "time": 565,
+    "timeDay": 565,
+    "timeWeek": 565,
+    "timeMonth": 565,
+    "timeYear": 565,
     "dailyMinutesDown": {}
   },
   {
