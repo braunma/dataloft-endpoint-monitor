@@ -1,5 +1,45 @@
 [
   {
+    "name": "EDC Gateway Charité (ids)",
+    "url": "https://ids.health-x.charite.de:443",
+    "icon": "https://icons.duckduckgo.com/ip3/ids.health-x.charite.de.ico",
+    "slug": "edc-gateway-charite-ids",
+    "status": "down",
+    "uptime": "17.92%",
+    "uptimeDay": "17.92%",
+    "uptimeWeek": "17.92%",
+    "uptimeMonth": "17.92%",
+    "uptimeYear": "17.92%",
+    "time": 702,
+    "timeDay": 702,
+    "timeWeek": 702,
+    "timeMonth": 702,
+    "timeYear": 702,
+    "dailyMinutesDown": {
+      "2023-04-17": 0
+    }
+  },
+  {
+    "name": "EDC Gateway Charité (data)",
+    "url": "https://data.health-x.charite.de:443",
+    "icon": "https://icons.duckduckgo.com/ip3/data.health-x.charite.de.ico",
+    "slug": "edc-gateway-charite-data",
+    "status": "down",
+    "uptime": "31.42%",
+    "uptimeDay": "31.42%",
+    "uptimeWeek": "31.42%",
+    "uptimeMonth": "31.42%",
+    "uptimeYear": "31.42%",
+    "time": 594,
+    "timeDay": 594,
+    "timeWeek": 594,
+    "timeMonth": 594,
+    "timeYear": 594,
+    "dailyMinutesDown": {
+      "2023-04-17": 0
+    }
+  },
+  {
     "name": "Dataloft-Catalogue",
     "url": "https://gxfs-catalogue.dataloft-ionos.de/",
     "icon": "https://icons.duckduckgo.com/ip3/gxfs-catalogue.dataloft-ionos.de.ico",
@@ -10,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 590,
-    "timeDay": 590,
-    "timeWeek": 590,
-    "timeMonth": 590,
-    "timeYear": 590,
+    "time": 546,
+    "timeDay": 546,
+    "timeWeek": 546,
+    "timeMonth": 546,
+    "timeYear": 546,
     "dailyMinutesDown": {}
   },
   {
