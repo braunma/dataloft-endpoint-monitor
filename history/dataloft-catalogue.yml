@@ -1,7 +1,7 @@
 url: https://gxfs-catalogue.dataloft-ionos.de/
-status: up
-code: 200
-responseTime: 604
-lastUpdated: 2023-04-17T16:25:27.193Z
+status: down
+code: 502
+responseTime: 560
+lastUpdated: 2023-04-17T20:44:52.591Z
 startTime: Mon Apr 17 2023 08:36:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
