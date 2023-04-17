@@ -1,26 +1,21 @@
 [
   {
-    "name": "de.NBI Cloud Berlin",
-    "url": "https://denbi-cloud.bihealth.org",
-    "icon": "https://icons.duckduckgo.com/ip3/denbi-cloud.bihealth.org.ico",
-    "slug": "de-nbi-cloud-berlin",
-    "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-04-17": 82,
-      "2023-04-16": 1440,
-      "2023-04-15": 1440,
-      "2023-04-14": 955
-    }
+    "name": "Dataloft-Catalogue",
+    "url": "https://gxfs-catalogue.dataloft-ionos.de/",
+    "icon": "https://icons.duckduckgo.com/ip3/gxfs-catalogue.dataloft-ionos.de.ico",
+    "slug": "dataloft-catalogue",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 590,
+    "timeDay": 590,
+    "timeWeek": 590,
+    "timeMonth": 590,
+    "timeYear": 590,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site",
