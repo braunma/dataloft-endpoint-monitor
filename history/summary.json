@@ -16,7 +16,7 @@
     "timeMonth": 1169,
     "timeYear": 1169,
     "dailyMinutesDown": {
-      "2023-04-18": 459,
+      "2023-04-18": 492,
       "2023-04-17": 456
     }
   },
@@ -37,7 +37,7 @@
     "timeMonth": 796,
     "timeYear": 796,
     "dailyMinutesDown": {
-      "2023-04-18": 459,
+      "2023-04-18": 492,
       "2023-04-17": 456
     }
   },
@@ -46,19 +46,19 @@
     "url": "https://gxfs-catalogue.dataloft-ionos.de/",
     "icon": "https://icons.duckduckgo.com/ip3/gxfs-catalogue.dataloft-ionos.de.ico",
     "slug": "dataloft-catalogue",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 586,
-    "timeDay": 586,
-    "timeWeek": 586,
-    "timeMonth": 586,
-    "timeYear": 586,
+    "status": "up",
+    "uptime": "97.68%",
+    "uptimeDay": "97.68%",
+    "uptimeWeek": "97.68%",
+    "uptimeMonth": "97.68%",
+    "uptimeYear": "97.68%",
+    "time": 569,
+    "timeDay": 569,
+    "timeWeek": 569,
+    "timeMonth": 569,
+    "timeYear": 569,
     "dailyMinutesDown": {
-      "2023-04-18": 0
+      "2023-04-18": 33
     }
   },
   {
