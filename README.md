@@ -2,6 +2,8 @@
 
 This repository contains the open-source uptime monitor and status page for [braunma](https://demo.upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
 
+**[LINK to portal: https://braunma.github.io/dataloft-endpoint-monitor/](https://braunma.github.io/dataloft-endpoint-monitor/)**
+
 [![Uptime CI](https://github.com/braunma/dataloft-endpoint-monitor/workflows/Uptime%20CI/badge.svg)](https://github.com/braunma/dataloft-endpoint-monitor/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/braunma/dataloft-endpoint-monitor/workflows/Response%20Time%20CI/badge.svg)](https://github.com/braunma/dataloft-endpoint-monitor/actions?query=workflow%3A%22Response+Time+CI%22)
 [![Graphs CI](https://github.com/braunma/dataloft-endpoint-monitor/workflows/Graphs%20CI/badge.svg)](https://github.com/braunma/dataloft-endpoint-monitor/actions?query=workflow%3A%22Graphs+CI%22)
