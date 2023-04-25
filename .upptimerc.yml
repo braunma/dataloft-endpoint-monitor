@@ -9,6 +9,8 @@ sites:
     url:  https://data.health-x.charite.de
   - name: Dataloft-Catalogue
     url: https://gxfs-catalogue.dataloft-ionos.de/
+  - name: Keycloak Dataloft-Catalogue
+    url: https://auth.gxfs-catalogue.dataloft-ionos.de/
 #  - name: de.NBI Cloud Berlin
 #    url: https://denbi-cloud.bihealth.org
   - name: Test Broken Site
