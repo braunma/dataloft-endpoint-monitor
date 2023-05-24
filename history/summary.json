@@ -16,7 +16,7 @@
     "timeMonth": 844,
     "timeYear": 875,
     "dailyMinutesDown": {
-      "2023-05-24": 86,
+      "2023-05-24": 510,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
       "2023-05-21": 1440,
@@ -73,7 +73,7 @@
     "timeMonth": 757,
     "timeYear": 751,
     "dailyMinutesDown": {
-      "2023-05-24": 86,
+      "2023-05-24": 510,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
       "2023-05-21": 1440,
@@ -118,9 +118,9 @@
     "url": "https://gxfs-catalogue.dataloft-ionos.de/",
     "icon": "https://icons.duckduckgo.com/ip3/gxfs-catalogue.dataloft-ionos.de.ico",
     "slug": "dataloft-catalogue",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
@@ -130,6 +130,7 @@
     "timeMonth": 562,
     "timeYear": 563,
     "dailyMinutesDown": {
+      "2023-05-24": 0,
       "2023-04-23": 24,
       "2023-04-19": 39,
       "2023-04-18": 33
@@ -140,9 +141,9 @@
     "url": "https://auth.gxfs-catalogue.dataloft-ionos.de/",
     "icon": "https://icons.duckduckgo.com/ip3/auth.gxfs-catalogue.dataloft-ionos.de.ico",
     "slug": "keycloak-dataloft-catalogue",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -151,7 +152,9 @@
     "timeWeek": 513,
     "timeMonth": 567,
     "timeYear": 567,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-24": 0
+    }
   },
   {
     "name": "Test Broken Site",
