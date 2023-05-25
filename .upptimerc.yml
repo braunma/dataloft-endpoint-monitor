@@ -8,9 +8,9 @@ sites:
   - name: EDC Gateway Charité (data)
     url:  https://data.health-x.charite.de
   - name: Dataloft-Catalogue
-    url: https://gxfs-catalogue.dataloft-ionos.de/
+    url: https://gxfs-catalogue.dataloft-ionos.de/participants
   - name: Keycloak Dataloft-Catalogue
-    url: https://auth.gxfs-catalogue.dataloft-ionos.de/
+    url: https://auth.gxfs-catalogue.dataloft-ionos.de/partici
 #  - name: de.NBI Cloud Berlin
 #    url: https://denbi-cloud.bihealth.org
   - name: Test Broken Site
