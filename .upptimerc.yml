@@ -3,14 +3,14 @@ owner: braunma # Your GitHub organization or username, where this repository liv
 repo: dataloft-endpoint-monitor # The name of this repository
 
 sites:
-  - name: EDC Gateway Charité (ids)
-    url:  https://ids.health-x.charite.de
-  - name: EDC Gateway Charité (data)
-    url:  https://data.health-x.charite.de
+ # - name: EDC Gateway Charité (ids)
+ #   url:  https://ids.health-x.charite.de
+ # - name: EDC Gateway Charité (data)
+ #   url:  https://data.health-x.charite.de
   - name: Dataloft-Catalogue
     url: https://gxfs-catalogue.dataloft-ionos.de/participants
-  - name: Keycloak Dataloft-Catalogue
-    url: https://auth.gxfs-catalogue.dataloft-ionos.de/partici
+ # - name: Keycloak Dataloft-Catalogue
+ #   url: https://auth.gxfs-catalogue.dataloft-ionos.de/partici
 #  - name: de.NBI Cloud Berlin
 #    url: https://denbi-cloud.bihealth.org
   - name: Test Broken Site
