@@ -7,6 +7,10 @@ sites:
  #   url:  https://ids.health-x.charite.de
  # - name: EDC Gateway Charité (data)
  #   url:  https://data.health-x.charite.de
+   - name: Personal EDC Gateway
+    url: https://gateway.dataloft-ionos.de/docs
+   - name: Personal EDC Gateway - development
+    url: https://gateway.dev-dataloft-ionos.de/docs
   - name: Dataloft-Catalogue
     url: https://gxfs-catalogue.dataloft-ionos.de/participants
  # - name: Keycloak Dataloft-Catalogue
