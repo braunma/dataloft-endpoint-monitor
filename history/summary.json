@@ -4,19 +4,19 @@
     "url": "https://dev-ids.health-x.charite.de/health/1",
     "icon": "https://icons.duckduckgo.com/ip3/dev-ids.health-x.charite.de.ico",
     "slug": "charite-gateway-dev",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 598,
-    "timeDay": 605,
-    "timeWeek": 598,
-    "timeMonth": 598,
-    "timeYear": 598,
+    "status": "up",
+    "uptime": "96.43%",
+    "uptimeDay": "96.12%",
+    "uptimeWeek": "96.43%",
+    "uptimeMonth": "96.43%",
+    "uptimeYear": "96.43%",
+    "time": 631,
+    "timeDay": 651,
+    "timeWeek": 631,
+    "timeMonth": 631,
+    "timeYear": 631,
     "dailyMinutesDown": {
-      "2023-06-16": 0
+      "2023-06-16": 56
     }
   },
   {
