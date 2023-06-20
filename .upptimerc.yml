@@ -7,8 +7,22 @@ sites:
  #   url:  https://ids.health-x.charite.de
  # - name: EDC Gateway Charité (data)
  #   url:  https://data.health-x.charite.de
-  - name: Charite gateway dev
+  - name: Dev Charite edc 
     url:  https://dev-ids.health-x.charite.de/health/1
+  - name: Dev Charite idat matcher
+    url:  https://dev-ids.health-x.charite.de/health/2
+  - name: Dev Charite gateway
+    url:  https://dev-ids.health-x.charite.de/health/3
+  - name: Dev Charite gateway-iop-connection
+    url:  https://dev-ids.health-x.charite.de/health/4
+  - name: Charite edc
+    url:  https://ids.health-x.charite.de/health/1
+  - name: Charite idat matcher
+    url:  https://ids.health-x.charite.de/health/2
+  - name: Charite gateway
+    url:  https://ids.health-x.charite.de/health/3
+  - name: Charite gateway-iop-connection
+    url:  https://ids.health-x.charite.de/health/4
   - name: Personal EDC Gateway
     url: https://gateway.dataloft-ionos.de/docs
   - name: Personal EDC Gateway - development
