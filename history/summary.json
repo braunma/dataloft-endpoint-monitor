@@ -168,19 +168,19 @@
     "url": "https://gateway.dev-dataloft-ionos.de/docs",
     "icon": "https://icons.duckduckgo.com/ip3/gateway.dev-dataloft-ionos.de.ico",
     "slug": "personal-edc-gateway-development",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "96.42%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 565,
-    "timeDay": 569,
-    "timeWeek": 545,
-    "timeMonth": 562,
-    "timeYear": 565,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "94.21%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 569,
+    "timeDay": 604,
+    "timeWeek": 562,
+    "timeMonth": 566,
+    "timeYear": 569,
     "dailyMinutesDown": {
-      "2023-07-13": 51
+      "2023-07-13": 83
     }
   },
   {
