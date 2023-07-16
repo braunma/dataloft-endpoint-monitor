@@ -150,18 +150,20 @@
     "url": "https://gateway.dataloft-ionos.de/docs",
     "icon": "https://icons.duckduckgo.com/ip3/gateway.dataloft-ionos.de.ico",
     "slug": "personal-edc-gateway",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 545,
-    "timeDay": 518,
-    "timeWeek": 567,
-    "timeMonth": 547,
-    "timeYear": 545,
-    "dailyMinutesDown": {}
+    "time": 551,
+    "timeDay": 642,
+    "timeWeek": 592,
+    "timeMonth": 554,
+    "timeYear": 551,
+    "dailyMinutesDown": {
+      "2023-07-16": 0
+    }
   },
   {
     "name": "Personal EDC Gateway - development",
