@@ -1,7 +1,7 @@
 url: https://gateway.dataloft-ionos.de/docs
-status: down
-code: 503
-responseTime: 591
-lastUpdated: 2024-02-11T22:03:48.196Z
+status: up
+code: 200
+responseTime: 496
+lastUpdated: 2024-02-11T22:22:49.234Z
 startTime: 2023-06-12T10:12:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
