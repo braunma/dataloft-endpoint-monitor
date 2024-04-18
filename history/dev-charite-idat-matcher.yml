@@ -1,7 +1,7 @@
 url: https://dev-ids.health-x.charite.de/health/2
-status: down
-code: 502
-responseTime: 99
-lastUpdated: 2024-04-18T09:49:16.631Z
+status: up
+code: 200
+responseTime: 171
+lastUpdated: 2024-04-18T16:09:26.999Z
 startTime: 2023-06-20T10:35:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
