@@ -228,7 +228,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev-ids.health-x.charite.de.ico",
     "slug": "dev-charite-idat-matcher",
     "status": "up",
-    "uptime": "52.47%",
+    "uptime": "52.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "87.05%",
@@ -455,7 +455,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "87.05%",
-    "uptimeYear": "46.72%",
+    "uptimeYear": "46.73%",
     "time": 148,
     "timeDay": 171,
     "timeWeek": 152,
@@ -1081,11 +1081,11 @@
     "url": "https://ids.health-x.charite.de/health/4",
     "icon": "https://icons.duckduckgo.com/ip3/ids.health-x.charite.de.ico",
     "slug": "charite-gateway-iop-connection",
-    "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "60.02%",
-    "uptimeWeek": "63.79%",
-    "uptimeMonth": "90.36%",
+    "status": "down",
+    "uptime": "99.31%",
+    "uptimeDay": "60.00%",
+    "uptimeWeek": "63.97%",
+    "uptimeMonth": "90.42%",
     "uptimeYear": "99.20%",
     "time": 134,
     "timeDay": 130,
@@ -1101,7 +1101,7 @@
       "2024-08-08": 549,
       "2024-08-07": 476,
       "2024-08-06": 504,
-      "2024-08-05": 290
+      "2024-08-05": 264
     }
   },
   {
