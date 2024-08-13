@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "87.05%",
-    "uptimeYear": "46.57%",
+    "uptimeYear": "46.58%",
     "time": 827,
     "timeDay": 954,
     "timeWeek": 872,
@@ -232,7 +232,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "87.05%",
-    "uptimeYear": "46.57%",
+    "uptimeYear": "46.58%",
     "time": 132,
     "timeDay": 174,
     "timeWeek": 160,
@@ -681,7 +681,7 @@
     "uptimeYear": "99.34%",
     "time": 131,
     "timeDay": 127,
-    "timeWeek": 140,
+    "timeWeek": 139,
     "timeMonth": 135,
     "timeYear": 131,
     "dailyMinutesDown": {
@@ -1082,15 +1082,15 @@
     "url": "https://ids.health-x.charite.de/health/4",
     "icon": "https://icons.duckduckgo.com/ip3/ids.health-x.charite.de.ico",
     "slug": "charite-gateway-iop-connection",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "76.10%",
-    "uptimeWeek": "64.80%",
-    "uptimeMonth": "90.21%",
-    "uptimeYear": "99.18%",
+    "uptimeDay": "76.08%",
+    "uptimeWeek": "64.79%",
+    "uptimeMonth": "90.26%",
+    "uptimeYear": "99.19%",
     "time": 135,
     "timeDay": 137,
-    "timeWeek": 134,
+    "timeWeek": 133,
     "timeMonth": 132,
     "timeYear": 135,
     "dailyMinutesDown": {
@@ -1103,7 +1103,7 @@
       "2024-08-07": 476,
       "2024-08-06": 504,
       "2024-08-05": 568,
-      "2024-08-04": 112
+      "2024-08-04": 88
     }
   },
   {
