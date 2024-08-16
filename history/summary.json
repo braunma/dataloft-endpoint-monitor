@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev-ids.health-x.charite.de.ico",
     "slug": "dev-charite-edc",
     "status": "up",
-    "uptime": "52.73%",
+    "uptime": "52.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "87.05%",
-    "uptimeYear": "47.35%",
+    "uptimeYear": "47.36%",
     "time": 827,
     "timeDay": 790,
     "timeWeek": 872,
@@ -216,8 +216,7 @@
       "2023-08-21": 1440,
       "2023-08-20": 1440,
       "2023-08-19": 1440,
-      "2023-08-18": 1440,
-      "2023-08-17": 1440
+      "2023-08-18": 1440
     }
   },
   {
@@ -226,11 +225,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev-ids.health-x.charite.de.ico",
     "slug": "dev-charite-idat-matcher",
     "status": "up",
-    "uptime": "52.73%",
+    "uptime": "52.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "87.05%",
-    "uptimeYear": "47.35%",
+    "uptimeYear": "47.36%",
     "time": 132,
     "timeDay": 115,
     "timeWeek": 156,
@@ -437,8 +436,7 @@
       "2023-08-21": 1440,
       "2023-08-20": 1440,
       "2023-08-19": 1440,
-      "2023-08-18": 1440,
-      "2023-08-17": 1440
+      "2023-08-18": 1440
     }
   },
   {
@@ -658,8 +656,7 @@
       "2023-08-21": 1440,
       "2023-08-20": 1440,
       "2023-08-19": 1440,
-      "2023-08-18": 1440,
-      "2023-08-17": 1440
+      "2023-08-18": 1440
     }
   },
   {
@@ -669,12 +666,12 @@
     "slug": "dev-charite-gateway-iop-connection",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "82.81%",
+    "uptimeDay": "82.87%",
     "uptimeWeek": "85.01%",
     "uptimeMonth": "92.12%",
     "uptimeYear": "99.34%",
     "time": 131,
-    "timeDay": 135,
+    "timeDay": 136,
     "timeWeek": 128,
     "timeMonth": 134,
     "timeYear": 130,
@@ -1076,11 +1073,11 @@
     "url": "https://ids.health-x.charite.de/health/4",
     "icon": "https://icons.duckduckgo.com/ip3/ids.health-x.charite.de.ico",
     "slug": "charite-gateway-iop-connection",
-    "status": "up",
-    "uptime": "99.29%",
-    "uptimeDay": "72.88%",
-    "uptimeWeek": "62.70%",
-    "uptimeMonth": "90.19%",
+    "status": "down",
+    "uptime": "99.30%",
+    "uptimeDay": "73.71%",
+    "uptimeWeek": "62.93%",
+    "uptimeMonth": "90.21%",
     "uptimeYear": "99.18%",
     "time": 134,
     "timeDay": 132,
@@ -1088,7 +1085,8 @@
     "timeMonth": 132,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2024-08-15": 391,
+      "2024-08-16": 0,
+      "2024-08-15": 379,
       "2024-08-14": 731,
       "2024-08-13": 616,
       "2024-08-12": 279,
