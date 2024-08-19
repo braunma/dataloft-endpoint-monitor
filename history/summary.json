@@ -655,14 +655,14 @@
     "url": "https://dev-ids.health-x.charite.de/health/4",
     "icon": "https://icons.duckduckgo.com/ip3/dev-ids.health-x.charite.de.ico",
     "slug": "dev-charite-gateway-iop-connection",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "87.94%",
-    "uptimeWeek": "88.67%",
-    "uptimeMonth": "92.12%",
-    "uptimeYear": "99.34%",
+    "uptimeDay": "87.92%",
+    "uptimeWeek": "88.66%",
+    "uptimeMonth": "92.18%",
+    "uptimeYear": "99.35%",
     "time": 131,
-    "timeDay": 131,
+    "timeDay": 130,
     "timeWeek": 130,
     "timeMonth": 134,
     "timeYear": 131,
@@ -683,7 +683,7 @@
       "2024-08-06": 296,
       "2024-08-05": 109,
       "2024-08-04": 315,
-      "2024-08-03": 115
+      "2024-08-03": 91
     }
   },
   {
@@ -1095,7 +1095,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gateway.dataloft-ionos.de.ico",
     "slug": "personal-edc-gateway",
     "status": "up",
-    "uptime": "99.17%",
+    "uptime": "99.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
