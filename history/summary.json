@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev-ids.health-x.charite.de.ico",
     "slug": "dev-charite-edc",
     "status": "up",
-    "uptime": "59.45%",
+    "uptime": "59.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "66.52%",
+    "uptimeYear": "66.55%",
     "time": 823,
     "timeDay": 638,
-    "timeWeek": 900,
+    "timeWeek": 862,
     "timeMonth": 856,
     "timeYear": 821,
     "dailyMinutesDown": {
@@ -146,8 +146,7 @@
       "2023-10-30": 1440,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
-      "2023-10-27": 1440,
-      "2023-10-26": 1440
+      "2023-10-27": 1440
     }
   },
   {
@@ -156,14 +155,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev-ids.health-x.charite.de.ico",
     "slug": "dev-charite-idat-matcher",
     "status": "up",
-    "uptime": "59.45%",
+    "uptime": "59.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "66.52%",
+    "uptimeYear": "66.55%",
     "time": 135,
     "timeDay": 116,
-    "timeWeek": 154,
+    "timeWeek": 150,
     "timeMonth": 149,
     "timeYear": 137,
     "dailyMinutesDown": {
@@ -297,8 +296,7 @@
       "2023-10-30": 1440,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
-      "2023-10-27": 1440,
-      "2023-10-26": 1440
+      "2023-10-27": 1440
     }
   },
   {
@@ -307,14 +305,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev-ids.health-x.charite.de.ico",
     "slug": "dev-charite-gateway",
     "status": "up",
-    "uptime": "59.45%",
+    "uptime": "59.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "66.53%",
+    "uptimeYear": "66.55%",
     "time": 150,
     "timeDay": 119,
-    "timeWeek": 154,
+    "timeWeek": 150,
     "timeMonth": 150,
     "timeYear": 155,
     "dailyMinutesDown": {
@@ -448,8 +446,7 @@
       "2023-10-30": 1440,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
-      "2023-10-27": 1440,
-      "2023-10-26": 1440
+      "2023-10-27": 1440
     }
   },
   {
@@ -457,18 +454,19 @@
     "url": "https://dev-ids.health-x.charite.de/health/4",
     "icon": "https://icons.duckduckgo.com/ip3/dev-ids.health-x.charite.de.ico",
     "slug": "dev-charite-gateway-iop-connection",
-    "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "97.20%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "97.19%",
     "uptimeWeek": "97.94%",
-    "uptimeMonth": "95.74%",
+    "uptimeMonth": "95.77%",
     "uptimeYear": "99.49%",
     "time": 132,
-    "timeDay": 120,
-    "timeWeek": 133,
+    "timeDay": 126,
+    "timeWeek": 132,
     "timeMonth": 136,
     "timeYear": 133,
     "dailyMinutesDown": {
+      "2024-10-25": 0,
       "2024-10-24": 41,
       "2024-10-23": 21,
       "2024-10-22": 22,
@@ -510,7 +508,7 @@
       "2024-09-13": 27,
       "2024-09-11": 45,
       "2024-09-10": 120,
-      "2024-09-09": 72
+      "2024-09-09": 45
     }
   },
   {
@@ -526,7 +524,7 @@
     "uptimeYear": "73.09%",
     "time": 793,
     "timeDay": 535,
-    "timeWeek": 853,
+    "timeWeek": 825,
     "timeMonth": 761,
     "timeYear": 785,
     "dailyMinutesDown": {
@@ -976,18 +974,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gateway.dev-dataloft-ionos.de.ico",
     "slug": "personal-edc-gateway-development",
     "status": "down",
-    "uptime": "87.36%",
+    "uptime": "87.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "82.71%",
+    "uptimeYear": "82.68%",
     "time": 582,
     "timeDay": 488,
     "timeWeek": 645,
     "timeMonth": 687,
     "timeYear": 587,
     "dailyMinutesDown": {
-      "2024-10-24": 1388,
+      "2024-10-25": 75,
+      "2024-10-24": 1440,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
@@ -1067,18 +1066,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gxfs-catalogue.dataloft-ionos.de.ico",
     "slug": "dataloft-catalogue",
     "status": "down",
-    "uptime": "88.35%",
+    "uptime": "88.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "82.60%",
+    "uptimeYear": "82.57%",
     "time": 557,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 561,
     "dailyMinutesDown": {
-      "2024-10-24": 1388,
+      "2024-10-25": 75,
+      "2024-10-24": 1440,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
