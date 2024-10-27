@@ -301,11 +301,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev-ids.health-x.charite.de.ico",
     "slug": "dev-charite-gateway",
     "status": "up",
-    "uptime": "59.69%",
+    "uptime": "59.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "67.34%",
+    "uptimeYear": "67.35%",
     "time": 150,
     "timeDay": 120,
     "timeWeek": 149,
@@ -448,15 +448,15 @@
     "url": "https://dev-ids.health-x.charite.de/health/4",
     "icon": "https://icons.duckduckgo.com/ip3/dev-ids.health-x.charite.de.ico",
     "slug": "dev-charite-gateway-iop-connection",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "98.58%",
+    "uptimeDay": "98.57%",
     "uptimeWeek": "97.30%",
     "uptimeMonth": "95.97%",
     "uptimeYear": "99.49%",
     "time": 133,
-    "timeDay": 126,
-    "timeWeek": 136,
+    "timeDay": 132,
+    "timeWeek": 137,
     "timeMonth": 136,
     "timeYear": 133,
     "dailyMinutesDown": {
@@ -503,7 +503,7 @@
       "2024-09-14": 21,
       "2024-09-13": 27,
       "2024-09-11": 45,
-      "2024-09-10": 72
+      "2024-09-10": 52
     }
   },
   {
@@ -888,17 +888,17 @@
     "slug": "charite-gateway-iop-connection",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "96.00%",
-    "uptimeWeek": "98.70%",
-    "uptimeMonth": "97.31%",
-    "uptimeYear": "99.41%",
+    "uptimeDay": "96.87%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "97.34%",
+    "uptimeYear": "99.40%",
     "time": 134,
     "timeDay": 150,
     "timeWeek": 135,
     "timeMonth": 134,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2024-10-27": 58,
+      "2024-10-27": 45,
       "2024-10-26": 34,
       "2024-10-25": 22,
       "2024-10-21": 18,
@@ -934,7 +934,7 @@
       "2024-08-21": 415,
       "2024-08-20": 388,
       "2024-08-19": 434,
-      "2024-08-18": 203
+      "2024-08-18": 247
     }
   },
   {
@@ -983,7 +983,7 @@
     "timeMonth": 674,
     "timeYear": 587,
     "dailyMinutesDown": {
-      "2024-10-27": 1365,
+      "2024-10-27": 1377,
       "2024-10-26": 1440,
       "2024-10-25": 1427,
       "2024-10-24": 1440,
@@ -1077,7 +1077,7 @@
     "timeMonth": 0,
     "timeYear": 561,
     "dailyMinutesDown": {
-      "2024-10-27": 1365,
+      "2024-10-27": 1377,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
