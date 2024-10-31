@@ -297,7 +297,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "68.20%",
+    "uptimeYear": "68.21%",
     "time": 150,
     "timeDay": 122,
     "timeWeek": 140,
@@ -436,9 +436,9 @@
     "url": "https://dev-ids.health-x.charite.de/health/4",
     "icon": "https://icons.duckduckgo.com/ip3/dev-ids.health-x.charite.de.ico",
     "slug": "dev-charite-gateway-iop-connection",
-    "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "94.60%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "94.58%",
     "uptimeWeek": "97.02%",
     "uptimeMonth": "95.82%",
     "uptimeYear": "99.49%",
@@ -448,6 +448,7 @@
     "timeMonth": 135,
     "timeYear": 133,
     "dailyMinutesDown": {
+      "2024-10-31": 0,
       "2024-10-30": 79,
       "2024-10-29": 21,
       "2024-10-28": 25,
@@ -491,8 +492,7 @@
       "2024-09-17": 56,
       "2024-09-16": 39,
       "2024-09-15": 69,
-      "2024-09-14": 21,
-      "2024-09-13": 27
+      "2024-09-14": 21
     }
   },
   {
@@ -751,7 +751,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ids.health-x.charite.de.ico",
     "slug": "charite-gateway",
     "status": "up",
-    "uptime": "80.30%",
+    "uptime": "80.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -962,7 +962,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gateway.dev-dataloft-ionos.de.ico",
     "slug": "personal-edc-gateway-development",
     "status": "down",
-    "uptime": "86.31%",
+    "uptime": "86.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.12%",
     "uptimeMonth": "0.00%",
@@ -973,7 +973,7 @@
     "timeMonth": 635,
     "timeYear": 586,
     "dailyMinutesDown": {
-      "2024-10-31": 102,
+      "2024-10-31": 138,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
       "2024-10-28": 1440,
@@ -1071,7 +1071,7 @@
     "timeMonth": 0,
     "timeYear": 560,
     "dailyMinutesDown": {
-      "2024-10-31": 102,
+      "2024-10-31": 138,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
       "2024-10-28": 1440,
