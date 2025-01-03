@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.68%",
+    "uptimeYear": "85.70%",
     "time": 824,
     "timeDay": 1119,
     "timeWeek": 808,
@@ -77,8 +77,7 @@
       "2024-01-08": 1440,
       "2024-01-07": 1440,
       "2024-01-06": 1440,
-      "2024-01-05": 1440,
-      "2024-01-04": 1440
+      "2024-01-05": 1440
     }
   },
   {
@@ -91,7 +90,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.68%",
+    "uptimeYear": "85.70%",
     "time": 138,
     "timeDay": 173,
     "timeWeek": 137,
@@ -159,8 +158,7 @@
       "2024-01-08": 1440,
       "2024-01-07": 1440,
       "2024-01-06": 1440,
-      "2024-01-05": 1440,
-      "2024-01-04": 1440
+      "2024-01-05": 1440
     }
   },
   {
@@ -173,7 +171,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.68%",
+    "uptimeYear": "85.71%",
     "time": 152,
     "timeDay": 177,
     "timeWeek": 140,
@@ -241,8 +239,7 @@
       "2024-01-08": 1440,
       "2024-01-07": 1440,
       "2024-01-06": 1440,
-      "2024-01-05": 1440,
-      "2024-01-04": 1440
+      "2024-01-05": 1440
     }
   },
   {
@@ -252,9 +249,9 @@
     "slug": "dev-charite-gateway-iop-connection",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "89.59%",
-    "uptimeWeek": "88.89%",
-    "uptimeMonth": "93.17%",
+    "uptimeDay": "93.60%",
+    "uptimeWeek": "89.01%",
+    "uptimeMonth": "93.12%",
     "uptimeYear": "99.43%",
     "time": 134,
     "timeDay": 134,
@@ -262,7 +259,7 @@
     "timeMonth": 140,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2025-01-02": 150,
+      "2025-01-02": 137,
       "2025-01-01": 183,
       "2024-12-31": 273,
       "2024-12-30": 184,
@@ -292,7 +289,7 @@
       "2024-12-06": 51,
       "2024-12-05": 55,
       "2024-12-04": 148,
-      "2024-12-03": 33
+      "2024-12-03": 68
     }
   },
   {
@@ -301,7 +298,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ids.health-x.charite.de.ico",
     "slug": "charite-edc",
     "status": "down",
-    "uptime": "72.39%",
+    "uptime": "72.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -312,7 +309,8 @@
     "timeMonth": 794,
     "timeYear": 788,
     "dailyMinutesDown": {
-      "2025-01-02": 1420,
+      "2025-01-03": 100,
+      "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
@@ -426,8 +424,7 @@
       "2024-01-08": 1440,
       "2024-01-07": 1440,
       "2024-01-06": 1440,
-      "2024-01-05": 1440,
-      "2024-01-04": 1440
+      "2024-01-05": 1440
     }
   },
   {
@@ -436,7 +433,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ids.health-x.charite.de.ico",
     "slug": "charite-idat-matcher",
     "status": "down",
-    "uptime": "72.39%",
+    "uptime": "72.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -447,7 +444,8 @@
     "timeMonth": 401,
     "timeYear": 180,
     "dailyMinutesDown": {
-      "2025-01-02": 1420,
+      "2025-01-03": 100,
+      "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
@@ -561,8 +559,7 @@
       "2024-01-08": 1440,
       "2024-01-07": 1440,
       "2024-01-06": 1440,
-      "2024-01-05": 1440,
-      "2024-01-04": 1440
+      "2024-01-05": 1440
     }
   },
   {
@@ -571,7 +568,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ids.health-x.charite.de.ico",
     "slug": "charite-gateway",
     "status": "down",
-    "uptime": "72.39%",
+    "uptime": "72.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -582,7 +579,8 @@
     "timeMonth": 398,
     "timeYear": 180,
     "dailyMinutesDown": {
-      "2025-01-02": 1420,
+      "2025-01-03": 100,
+      "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
@@ -696,8 +694,7 @@
       "2024-01-08": 1440,
       "2024-01-07": 1440,
       "2024-01-06": 1440,
-      "2024-01-05": 1440,
-      "2024-01-04": 1440
+      "2024-01-05": 1440
     }
   },
   {
@@ -706,18 +703,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ids.health-x.charite.de.ico",
     "slug": "charite-gateway-iop-connection",
     "status": "down",
-    "uptime": "89.48%",
+    "uptime": "89.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.78%",
+    "uptimeYear": "83.76%",
     "time": 142,
     "timeDay": 468,
     "timeWeek": 355,
     "timeMonth": 399,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2025-01-02": 1420,
+      "2025-01-03": 100,
+      "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
@@ -825,18 +823,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gateway.dataloft-ionos.de.ico",
     "slug": "personal-edc-gateway",
     "status": "down",
-    "uptime": "89.30%",
+    "uptime": "89.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.68%",
+    "uptimeYear": "83.65%",
     "time": 625,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 629,
     "dailyMinutesDown": {
-      "2025-01-02": 1420,
+      "2025-01-03": 100,
+      "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
@@ -910,18 +909,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gateway.dev-dataloft-ionos.de.ico",
     "slug": "personal-edc-gateway-development",
     "status": "down",
-    "uptime": "76.64%",
+    "uptime": "76.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "63.55%",
+    "uptimeYear": "63.53%",
     "time": 585,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 587,
     "dailyMinutesDown": {
-      "2025-01-02": 1420,
+      "2025-01-03": 100,
+      "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
@@ -1070,18 +1070,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gxfs-catalogue.dataloft-ionos.de.ico",
     "slug": "dataloft-catalogue",
     "status": "down",
-    "uptime": "78.48%",
+    "uptime": "78.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "63.44%",
+    "uptimeYear": "63.42%",
     "time": 558,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 565,
     "dailyMinutesDown": {
-      "2025-01-02": 1420,
+      "2025-01-03": 101,
+      "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
