@@ -1,7 +1,7 @@
 url: https://dev-ids.health-x.charite.de/health/4
-status: down
-code: 500
-responseTime: 135
-lastUpdated: 2025-01-17T20:10:13.963Z
+status: up
+code: 200
+responseTime: 122
+lastUpdated: 2025-01-17T20:28:11.424Z
 startTime: 2023-06-20T10:35:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
