@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev-ids.health-x.charite.de.ico",
     "slug": "dev-charite-edc",
     "status": "up",
-    "uptime": "81.28%",
+    "uptime": "81.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 842,
-    "timeDay": 1039,
-    "timeWeek": 717,
+    "timeDay": 1082,
+    "timeWeek": 782,
     "timeMonth": 733,
-    "timeYear": 839,
+    "timeYear": 840,
     "dailyMinutesDown": {
       "2025-06-23": 15,
       "2025-07-20": 15,
@@ -29,16 +29,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev-ids.health-x.charite.de.ico",
     "slug": "dev-charite-idat-matcher",
     "status": "up",
-    "uptime": "81.28%",
+    "uptime": "81.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 161,
-    "timeDay": 484,
-    "timeWeek": 478,
-    "timeMonth": 360,
-    "timeYear": 165,
+    "time": 162,
+    "timeDay": 421,
+    "timeWeek": 469,
+    "timeMonth": 368,
+    "timeYear": 166,
     "dailyMinutesDown": {
       "2025-06-23": 15,
       "2025-07-20": 15,
@@ -53,16 +53,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev-ids.health-x.charite.de.ico",
     "slug": "dev-charite-gateway",
     "status": "up",
-    "uptime": "81.28%",
+    "uptime": "81.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 173,
-    "timeDay": 578,
-    "timeWeek": 481,
-    "timeMonth": 380,
-    "timeYear": 179,
+    "timeDay": 497,
+    "timeWeek": 484,
+    "timeMonth": 391,
+    "timeYear": 180,
     "dailyMinutesDown": {
       "2025-06-23": 15,
       "2025-07-20": 15,
@@ -77,18 +77,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev-ids.health-x.charite.de.ico",
     "slug": "dev-charite-gateway-iop-connection",
     "status": "down",
-    "uptime": "54.87%",
+    "uptime": "54.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 164,
-    "timeDay": 716,
-    "timeWeek": 492,
-    "timeMonth": 375,
-    "timeYear": 171,
+    "time": 165,
+    "timeDay": 688,
+    "timeWeek": 514,
+    "timeMonth": 392,
+    "timeYear": 173,
     "dailyMinutesDown": {
-      "2026-05-26": 244,
+      "2026-05-27": 257,
+      "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -451,8 +452,7 @@
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
-      "2025-05-28": 1440,
-      "2025-05-27": 1440
+      "2025-05-28": 1440
     }
   },
   {
@@ -461,18 +461,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ids.health-x.charite.de.ico",
     "slug": "charite-edc",
     "status": "down",
-    "uptime": "38.03%",
+    "uptime": "38.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 738,
-    "timeDay": 504,
-    "timeWeek": 402,
-    "timeMonth": 504,
-    "timeYear": 729,
+    "timeDay": 431,
+    "timeWeek": 421,
+    "timeMonth": 490,
+    "timeYear": 728,
     "dailyMinutesDown": {
-      "2026-05-26": 244,
+      "2026-05-27": 258,
+      "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -835,8 +836,7 @@
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
-      "2025-05-28": 1440,
-      "2025-05-27": 1440
+      "2025-05-28": 1440
     }
   },
   {
@@ -845,18 +845,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ids.health-x.charite.de.ico",
     "slug": "charite-idat-matcher",
     "status": "down",
-    "uptime": "38.03%",
+    "uptime": "38.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 387,
-    "timeDay": 476,
-    "timeWeek": 397,
-    "timeMonth": 389,
+    "timeDay": 423,
+    "timeWeek": 410,
+    "timeMonth": 388,
     "timeYear": 386,
     "dailyMinutesDown": {
-      "2026-05-26": 244,
+      "2026-05-27": 258,
+      "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -1219,8 +1220,7 @@
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
-      "2025-05-28": 1440,
-      "2025-05-27": 1440
+      "2025-05-28": 1440
     }
   },
   {
@@ -1229,18 +1229,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ids.health-x.charite.de.ico",
     "slug": "charite-gateway",
     "status": "down",
-    "uptime": "38.03%",
+    "uptime": "38.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 386,
-    "timeDay": 454,
-    "timeWeek": 410,
-    "timeMonth": 387,
+    "timeDay": 407,
+    "timeWeek": 425,
+    "timeMonth": 386,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2026-05-26": 244,
+      "2026-05-27": 258,
+      "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -1603,8 +1604,7 @@
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
-      "2025-05-28": 1440,
-      "2025-05-27": 1440
+      "2025-05-28": 1440
     }
   },
   {
@@ -1613,18 +1613,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ids.health-x.charite.de.ico",
     "slug": "charite-gateway-iop-connection",
     "status": "down",
-    "uptime": "47.01%",
+    "uptime": "46.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 389,
-    "timeDay": 469,
-    "timeWeek": 424,
-    "timeMonth": 425,
+    "timeDay": 396,
+    "timeWeek": 440,
+    "timeMonth": 423,
     "timeYear": 389,
     "dailyMinutesDown": {
-      "2026-05-26": 244,
+      "2026-05-27": 258,
+      "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -1987,8 +1988,7 @@
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
-      "2025-05-28": 1440,
-      "2025-05-27": 1440
+      "2025-05-28": 1440
     }
   },
   {
@@ -1997,7 +1997,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gateway.dataloft-ionos.de.ico",
     "slug": "personal-edc-gateway",
     "status": "down",
-    "uptime": "47.23%",
+    "uptime": "47.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -2008,7 +2008,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-26": 244,
+      "2026-05-27": 258,
+      "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -2371,8 +2372,7 @@
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
-      "2025-05-28": 1440,
-      "2025-05-27": 1440
+      "2025-05-28": 1440
     }
   },
   {
@@ -2381,7 +2381,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gateway.dev-dataloft-ionos.de.ico",
     "slug": "personal-edc-gateway-development",
     "status": "down",
-    "uptime": "40.54%",
+    "uptime": "40.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -2392,7 +2392,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-26": 244,
+      "2026-05-27": 258,
+      "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -2755,8 +2756,7 @@
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
-      "2025-05-28": 1440,
-      "2025-05-27": 1440
+      "2025-05-28": 1440
     }
   },
   {
@@ -2765,7 +2765,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gxfs-catalogue.dataloft-ionos.de.ico",
     "slug": "dataloft-catalogue",
     "status": "down",
-    "uptime": "43.33%",
+    "uptime": "43.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -2776,7 +2776,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-26": 244,
+      "2026-05-27": 258,
+      "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -3139,8 +3140,7 @@
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
-      "2025-05-28": 1440,
-      "2025-05-27": 1440
+      "2025-05-28": 1440
     }
   }
 ]
